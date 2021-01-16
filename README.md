@@ -75,7 +75,7 @@ Production mode: it is a ready-made package that is actually running, auto-scala
 
 -------------------------------------------------------------------------
 
-Agora o tempo estático fica parado no tempo da construção e quando atualizamos a página só dá atualização do tempo dinâmico no front end
+Now o tempo estático fica parado no tempo da construção e quando atualizamos a página só dá atualização do tempo dinâmico no front end
 
 Podemos confirmar o dito acima inserindo log de console no código fonte do time.js
 
