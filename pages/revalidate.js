@@ -7,7 +7,7 @@ function Tempo(props) {
     
     return (
         <div>
-            <h1>Tempo Página SEM revalidação</h1>
+            <h1>Tempo Página COM revalidação</h1>
             <p>by Marcelo I Campos - Project React - NextJS</p>
             <p>
             <Link href="/">
@@ -15,8 +15,8 @@ function Tempo(props) {
             </Link>
             </p>
             <div style={{fontSize: "25px", fontFamily:"Arial"}}>{dynamicDateString} (dinâmico - front end)</div>
-            <div style={{fontSize: "25px", fontFamily:"Arial"}}>{props.staticDateString} (estático - back end - SEM revalidação)</div>
-            <div>Mesmo se houver atualização de chamada no navegador (apertando F5) o back end NÃO será revalidado e TEMPO ficará estático no back end</div>
+            <div style={{fontSize: "25px", fontFamily:"Arial"}}>{props.staticDateString} (estático - back end - COM revalidação)</div>
+            <div>Agora se houver atualização de chamada no navegador (aperte F5 mais de uma vez) o back end será revalidado e TEMPO ajustado de acordo com as chamadas</div>
         </div>
     )
 }
@@ -29,7 +29,8 @@ export function getStaticProps() {
     return {
         props: {
             staticDateString
-        }
+        },
+        revalidate: 1
     }
 }
 

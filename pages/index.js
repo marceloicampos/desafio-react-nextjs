@@ -1,4 +1,4 @@
-import Link from 'next/link';
+goimport Link from 'next/link';
 
 import { useState } from 'react';
 
@@ -14,7 +14,12 @@ function Home() {
             </p>
             <p>
             <Link href="/time">
-                <a>Acessar a página TEMPO de Forma Dinâmica em Página Estática</a>
+                <a>Acessar a página TEMPO Estático no Back End SEM REVALIDAÇÃO</a>
+            </Link>
+            </p>
+            <p>
+            <Link href="/revalidate">
+                <a>Acessar a página TEMPO Estático no Back End COM REVALIDAÇÃO</a>
             </Link>
             </p>    
             <p style={{fontWeight: "bold"}}>Clique nos BOTÕES para somar mais 1 ao CONTADOR ou para voltar ao número 1 inicial </p>

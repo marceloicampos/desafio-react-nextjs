@@ -75,7 +75,7 @@ Production mode: it is a ready-made package that is actually running, auto-scala
 
 -------------------------------------------------------------------------
 
-Now the static tima fica parado no tempo da construção e quando atualizamos a página só dá atualização do tempo dinâmico no front end
+Now the static time is stopped at build time and when we update the page it only updates the dynamic time at the front end
 
 Podemos confirmar o dito acima inserindo log de console no código fonte do time.js
 
@@ -94,10 +94,3 @@ Essa REVALIDAÇÃO SÓ ACONTECE se ultrapassar o tempo de revalidação estipula
 O MAIS IMPORTANTE DE TODO ESSE PROCESSO É QUE: mesmo que o back end fique fora do ar a Vercel sempre tem disponível uma página estática revalidada e esta página fica em produção até que ocorra nova revalidação. Assim o site nunca ficará fora do ar.
 
 Assim mesmo com o Back End fora do Ar o Front End continua em produção entregando dados ao usuário final.
-
-return {
-        props: {
-            staticDateString
-        },
-        revalidate: 1
-    }
