@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 function Tempo(props) {
-    console.log('> Pass over FrontEnd;')
+    console.log('> Pass over FrontEnd REVALIDATE;')
     const dynamicDate = new Date();
     const dynamicDateString = dynamicDate.toUTCString();
     

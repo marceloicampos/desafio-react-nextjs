@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 function Tempo(props) {
-    console.log('> Pass over FrontEnd;')
+    console.log('> Pass over FrontEnd TIME;')
     const dynamicDate = new Date();
     const dynamicDateString = dynamicDate.toUTCString();
     
@@ -22,7 +22,7 @@ function Tempo(props) {
 }
 
 export function getStaticProps() {
-    console.log('> Pass over validate ON getStaticProps();')
+    console.log('> Pass over validate OFF getStaticProps();')
     const staticDate = new Date();
     const staticDateString = staticDate.toUTCString();
 
