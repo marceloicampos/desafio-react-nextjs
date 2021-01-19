@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-function Sobre() {
+function About() {
     return ( 
         <div>
             <h1>SOBRE quem sou eu</h1>
@@ -21,4 +21,4 @@ function Sobre() {
     )
 }
 
-export default Sobre
+export default About;

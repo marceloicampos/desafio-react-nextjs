@@ -21,7 +21,12 @@ function Home() {
             <Link href="/revalidate">
                 <a>Acessar a página TEMPO Estático no Back End COM REVALIDAÇÃO</a>
             </Link>
-            </p>    
+            </p>
+            <p>
+            <Link href="/api/tempo">
+                <a>Acessar a página API TEMPO</a>
+            </Link>
+            </p>
             <p style={{fontWeight: "bold"}}>Clique nos BOTÕES para somar mais 1 ao CONTADOR ou para voltar ao número 1 inicial </p>
             <h2 style={{color: "red"}}><Contador /></h2>
             <p><CapsLock texto="texto em capslock usando parâmentro parent" /></p>
@@ -62,4 +67,4 @@ function CapsLock2(props) {
     return <div>{textoEmCapsLock}</div>
 }
 
-export default Home
+export default Home;
