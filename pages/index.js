@@ -24,7 +24,7 @@ function Home() {
             </p>
             <p>
             <Link href="/api/tempo">
-                <a>Acessar a página API TEMPO</a>
+                <a target="_blank">Acessar a página API TEMPO</a>
             </Link>
             </p>
             <p style={{fontWeight: "bold"}}>Clique nos BOTÕES para somar mais 1 ao CONTADOR ou para voltar ao número 1 inicial </p>
