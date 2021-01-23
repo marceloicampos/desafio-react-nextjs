@@ -17,6 +17,7 @@ function About() {
             <p> <a href="https://www.facebook.com/marceloicampos" target="_blank"> /marceloicampos - Facebook</a> - Acompanha-me no meu perfil do Facebook.</p>
             <p> <a href="https://www.instagram.com/marceloicampos" target="_blank"> /marceloicampos - Instagram</a> - Aqui tem algumas fotos minhas (nada demais).</p>
             <p> <a href="https://www.youtube.com/MICChannel79" target="_blank"> /MICChannel79 - Youtube</a> - Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR).</p>
+            <script data-ad-client="ca-pub-8817498061942635" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </div>
     )
 }
