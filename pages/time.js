@@ -18,7 +18,7 @@ function Time(props) {
             <div style={{fontSize: "25px", fontFamily:"Arial"}}>{props.staticDateString} (estático - back end - SEM revalidação)</div>
             <div>Mesmo se houver atualização de chamada no navegador (apertando F5) o back end NÃO será revalidado e TEMPO ficará estático no back end</div>
             <script data-ad-client="ca-pub-8817498061942635" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        </div>
+            </div>
     )
 }
 
