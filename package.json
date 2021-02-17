@@ -1,5 +1,5 @@
 {
-  "name": "site_react_nextjs",
+  "name": "desafio-react-nextjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marceloicampos/site_react_nextjs.git"
+    "url": "git+https://github.com/marceloicampos/desafio-react-nextjs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marceloicampos/site_react_nextjs/issues"
+    "url": "https://github.com/marceloicampos/desafio-react-nextjs/issues"
   },
-  "homepage": "https://github.com/marceloicampos/site_react_nextjs#readme",
+  "homepage": "https://github.com/marceloicampos/desafio-react-nextjs#readme",
   "dependencies": {
     "next": "^10.0.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    
   }
 }
