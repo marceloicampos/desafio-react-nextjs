@@ -31,6 +31,9 @@ function Home() {
             <h2 style={{color: "red"}}><Contador /></h2>
             <p><CapsLock texto="texto em capslock usando parâmentro parent" /></p>
             <p><CapsLock2>texto em capslock usando parâmentro children</CapsLock2></p>
+            <footer>
+            <p>Estudos em HTML5, CSS3 e JAVASCRIPT por <a href="https://marceloicampos.com/about" target="_blank">Marcelo Ildefonso Campos</a></p>
+            </footer>
         </div>
     )
 }

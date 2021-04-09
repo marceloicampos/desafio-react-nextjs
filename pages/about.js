@@ -13,6 +13,8 @@ function About() {
             <hr />
             <h2>Quem sou eu?</h2>
             <p>Meu nome é <strong>Marcelo I Campos</strong>, sou estudante entusiata de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
+            <h2>Meus Cursos</h2>
+            <p><a href="https://www.cursoemvideo.com/hall-da-fama/marcelo-campos/" target="_blank">Meus Cursos em Vídeo</a></p>
             <h2>Meus Projetos</h2>
             <p><a href="https://marceloicampos.github.io/site-hello-world/" target="_blank">Projeto Hello World</a></p>
             <p><a href="https://marceloicampos.github.io/site-glass-html5/" target="_blank">Projeto Glass Html5</a></p>
@@ -26,6 +28,9 @@ function About() {
             <p> <a href="https://www.facebook.com/marceloicampos" target="_blank"> /marceloicampos - Facebook</a> - Acompanha-me no meu perfil do Facebook.</p>
             <p> <a href="https://www.instagram.com/marceloicampos" target="_blank"> /marceloicampos - Instagram</a> - Aqui tem algumas fotos minhas (nada demais).</p>
             <p> <a href="https://www.youtube.com/user/MICChannel79/playlists" target="_blank"> /MICChannel79 - YouTube</a> - Acessa meu canal, não tem vídeo, mas tem perfil e MINHAS PLAYLISTS DE VÍDEOS (vale a pena CONFERIR).</p>
+            <footer>
+            <p>Estudos em HTML5, CSS3 e JAVASCRIPT por <a href="https://marceloicampos.com/about" target="_blank">Marcelo Ildefonso Campos</a></p>
+            </footer>
         </div>
     )
 }
