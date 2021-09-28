@@ -12,7 +12,7 @@ function About() {
             </p>
             <hr />
             <h2>Quem sou eu?</h2>
-            <p>Meu nome é <strong>Marcelo I Campos</strong>, sou estudante entusiata de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
+            <p>Meu nome é <strong>Marcelo I Campos</strong>, sou estudante entusiasta de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
             <h2>Meus Cursos</h2>
             <p><a href="https://www.cursoemvideo.com/hall-da-fama/marcelo-campos/" target="_blank">Meus Cursos em Vídeo</a></p>
             <h2>Meus Projetos</h2>
