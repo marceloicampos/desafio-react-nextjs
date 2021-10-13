@@ -4,7 +4,7 @@ function About() {
     return ( 
         <div>
             <h1>SOBRE quem sou eu</h1>
-            <p>by Marcelo I Campos - Project React - NextJS</p>
+            <p>by Marcelo Ildefonso Campos - Project React - NextJS</p>
             <p>
             <Link href="/">
                 <a>Voltar a página PRINCIPAL</a>
@@ -12,13 +12,14 @@ function About() {
             </p>
             <hr />
             <h2>Quem sou eu?</h2>
-            <p>Meu nome é <strong>Marcelo I Campos</strong>, sou estudante entusiasta de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
+            <p>Meu nome é <strong>Marcelo Ildefonso Campos</strong>, sou estudante entusiasta de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
             <h2>Meus Cursos</h2>
-            <p><a href="https://www.cursoemvideo.com/hall-da-fama/marcelo-campos/" target="_blank">Meus Cursos em Vídeo</a></p>
+            <p><a href="https://www.cursoemvideo.com/blog/hall-da-fama/marcelo-campos/" target="_blank">Meus Cursos em Vídeo</a></p>
             <h2>Meus Projetos</h2>
             <p><a href="https://marceloicampos.github.io/site-hello-world/" target="_blank">Projeto Hello World</a></p>
-            <p><a href="https://marceloicampos.github.io/site-glass-html5/" target="_blank">Projeto Glass Html5</a></p>
             <p><a href="https://marceloicampos.github.io/site-hello-javascript/" target="_blank">Projeto Hello JavaScript</a></p>
+            <p><a href="https://marceloicampos.github.io/site-glass-html5/" target="_blank">Projeto Glass Html5</a></p>
+            <p><a href="https://marceloicampos.github.io/alura-imersaodev03/" target="_blank">Projeto Imersão DEV_</a></p>
             <p><a href="https://imersao-react-quiz-html-css-git-main.marceloicampos.vercel.app/" target="_blank">Projeto Imersão React</a></p>
             <p><a href="https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/" target="_blank">Projeto NLW4 NextJS</a></p>
             <h2>Como falar comigo?</h2>
