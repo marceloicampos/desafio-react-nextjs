@@ -24,6 +24,7 @@ function About() {
             <p><a href="https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/" target="_blank">Projeto NLW4 NextJS</a></p>
             <h2>Como falar comigo?</h2>
             <p>Meu e-Mail marceloicampos@outlook.com - <a href="mailto:marceloicampos@outlook.com"> mande um e-Mail pra mim</a> (garanto que respondo).</p>
+            <p><a href="https://www.linkedin.com/in/marceloicampos" target="_blank"> /marceloicampos - LinkedIn</a> - Meu LinkedIn</p>
             <p><a href="https://github.com/marceloicampos" target="_blank"> /marceloicampos - GitHub</a> - Aqui você encontra meus trabalhos em desenvolvimento (com muitas dicas boas) e aqui meu <a href="https://marceloicampos.github.io" target="_blank">repositório público</a> no Git Hub.</p>
             <p><a href="https://twitter.com/marceloicampos" target="_blank"> /marceloicampos - Twitter</a> - É so mais um perfil básico, mas é onde busco muitas notícias e informações atualizadas.</p>
             <p> <a href="https://www.facebook.com/marceloicampos" target="_blank"> /marceloicampos - Facebook</a> - Acompanha-me no meu perfil do Facebook.</p>
