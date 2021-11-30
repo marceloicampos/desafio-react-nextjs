@@ -20,8 +20,8 @@ function About() {
             <p><a href="https://marceloicampos.github.io/site-glass-html5/" target="_blank">Projeto Glass Html5</a></p>
             <p><a href="https://marceloicampos.github.io/alura-imersaodev03/" target="_blank">Projeto Imersão DEV_</a></p>
             <p><a href="https://imersao-react-quiz-html-css-git-main.marceloicampos.vercel.app/" target="_blank">Projeto Imersão React</a></p>
-            <p><a href="https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/" target="_blank">Projeto NLW7 My-Name-Tag</a></p>
-            <p><a href="https://marceloicampos.github.io/nlw07-mynametag-html-css-js/" target="_blank">Github Explorer - Ignite Classes Reactjs 01</a></p>
+            <p><a href="https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/" target="_blank">Projeto NLW4 NextJS</a></p>
+            <p><a href="https://marceloicampos.github.io/nlw07-mynametag-html-css-js/" target="_blank">Projeto NLW7 My-Name-Tag</a></p>
             <p><a href="https://ignite-classes-reactjs-01-github-explorer.vercel.app/" target="_blank">Github Explorer - Ignite Classes Reactjs 01</a></p>
             <p><a href="https://ignite-desafio01-trilha-reactjs.vercel.app/" target="_blank">To Do List - Ignite Desafio 01 Trilha Reactjs</a></p>
             <h2>Como falar comigo?</h2>
