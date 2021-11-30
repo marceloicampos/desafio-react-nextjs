@@ -1,0 +1,32 @@
+* {
+    margin: 4px;
+    padding: 4px;
+    box-sizing: border-box;
+}
+
+body {
+    font: 16px 'Neue Helvetica', Arial, sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+h1 {
+  margin-bottom: 16px;
+}
+
+p {
+    color: #fff;
+    margin-top: 4px;
+}
+
+a {
+    display: inline-block;
+    font-style: italic;
+    margin-top: 4px;
+    text-decoration: none;
+    color: #8257e6;
+}
+
+a:hover {
+  text-decoration: underline;
+}

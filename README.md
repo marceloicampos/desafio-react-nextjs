@@ -13,6 +13,12 @@ Create the dependency React use command 'npm install react'</br>
 Create the dependency React-DOM use command 'npm install react-dom'</br>
 OR just 'npm install next react react-dom'</br>
 
+Update
+npm outdated
+and
+npm install
+on dev script put - export NODE_OPTIONS=--openssl-legacy-provider; - with use the current node
+
 On your project create a folder 'pages' (create under the project root) and inside create the first index.js
 
 Other examples of folders and files</br>
@@ -73,7 +79,7 @@ Build mode: which runs only once, building html and optimizations and freezing a
 
 Production mode: it is a ready-made package that is actually running, auto-scalable or not (depending on the accesses) and making queries in the back end
 
--------------------------------------------------------------------------
+---
 
 Now the static time is stopped at build time and when we update the page it only updates the dynamic time at the front end
 
