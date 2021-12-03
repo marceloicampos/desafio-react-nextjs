@@ -13,7 +13,8 @@ function About() {
             <h2>Quem sou eu?</h2>
             <p>Meu nome é <strong>Marcelo Ildefonso Campos,</strong>sou estudante entusiasta de HTML, CSS e JAVASCRIPT. Aprendendo (aos 40 anos de vida) a programar e desenvolver.</p>
             <h2>Meus Cursos</h2>
-            <p><a href="https://www.cursoemvideo.com/blog/hall-da-fama/marcelo-campos/" target="_blank">Meus Cursos em Vídeo</a></p>
+            <p><a href="https://www.cursoemvideo.com/blog/hall-da-fama/marcelo-campos/" target="_blank">Curso em Vídeo</a></p>
+            <p><a href="https://cursos.alura.com.br/user/marceloicampos" target="_blank">Alura Cursos</a></p>
             <h2>Meus Projetos</h2>
             <p><a href="https://marceloicampos.github.io/site-hello-world/" target="_blank">Projeto Hello World</a></p>
             <p><a href="https://marceloicampos.github.io/site-hello-javascript/" target="_blank">Projeto Hello JavaScript</a></p>
@@ -22,8 +23,8 @@ function About() {
             <p><a href="https://imersao-react-quiz-html-css-git-main.marceloicampos.vercel.app/" target="_blank">Projeto Imersão React</a></p>
             <p><a href="https://miy-nlw-04-nextjs-git-main-marceloicampos.vercel.app/" target="_blank">Projeto NLW4 NextJS</a></p>
             <p><a href="https://marceloicampos.github.io/nlw07-mynametag-html-css-js/" target="_blank">Projeto NLW7 My-Name-Tag</a></p>
-            <p><a href="https://ignite-classes-reactjs-01-github-explorer.vercel.app/" target="_blank">Github Explorer - Ignite Classes Reactjs 01</a></p>
-            <p><a href="https://ignite-desafio01-trilha-reactjs.vercel.app/" target="_blank">To Do List - Ignite Desafio 01 Trilha Reactjs</a></p>
+            <p><a href="https://ignite-classes-reactjs-01-github-explorer.vercel.app/" target="_blank">Github Explorer - Ignite Classes 01</a></p>
+            <p><a href="https://ignite-desafio01-trilha-reactjs.vercel.app/" target="_blank">To Do List - Ignite Desafio 01</a></p>
             <h2>Como falar comigo?</h2>
             <p>Meu e-Mail marceloicampos@outlook.com - <a href="mailto:marceloicampos@outlook.com"> mande um e-Mail pra mim</a> (garanto que respondo).</p>
             <p><a href="https://www.linkedin.com/in/marceloicampos" target="_blank"> /marceloicampos - LinkedIn</a> - Meu LinkedIn</p>
